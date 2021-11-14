@@ -111,12 +111,11 @@ main {
 .hero-banner h2 {    
     background-color: var(--secondary);
   color: var(--tertiary);
-    margin: -80px;
+    margin: 0;
     padding: 5px 10px;
     font-size: 2.3rem;
     line-height: 1.2;
-    display: inline;
-    text-shadow: 5px 5px 35px rgba(6, 8, 1, 0.4);
+    display: inline;    
 }
 /* Hero style end */
 
@@ -128,7 +127,7 @@ main {
 }
 
 .page-section {
-    margin: 25px 0;
+    margin: 25px;
     padding: 10px 0;
     display: flex;
     flex-direction: row;
@@ -190,6 +189,7 @@ main {
 
 .flex-item div {
     background-color: var(--secondary);
+    padding: 8px 10px;
 }
 
 .flex-item h3 {
