@@ -238,12 +238,14 @@ main {
     background-image: url("./images/04-robot-galdiators.jpg");
     background-size: cover;
     background-position: center;
+    min-height: 250px;
   }
   
   .horiseon {
     background-image: url("./images/03-horiseon.jpg");
     background-size: cover;
     background-position: top;
+    min-height: 250px;
   } 
   /* end portfolio project images */
 
