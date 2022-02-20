@@ -5,7 +5,7 @@ A portfolio of work can showcase your skills and talents to employers looking to
 
 ![screenshot](/assets/images/home.png)
 
-### [Deployed Portfolio Link]
+### [Deployed Portfolio Link](https://nlimbu07.github.io/my-portfolio/)
 
 ## User Story
 
