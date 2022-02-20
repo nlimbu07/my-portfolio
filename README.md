@@ -5,6 +5,8 @@ A portfolio of work can showcase your skills and talents to employers looking to
 
 ![screenshot](/assets/images/home.png)
 
+### [Deployed Portfolio Link]
+
 ## User Story
 
 AS AN employer
