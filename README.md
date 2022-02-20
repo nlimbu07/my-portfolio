@@ -15,6 +15,10 @@ SO THAT I can review samples of their work and assess whether they're a good can
 - HTML
 - Advanced CSS
 
+## Credits
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
 ## Contribution
 
 Made with ❤️ by Niraj Limbu
